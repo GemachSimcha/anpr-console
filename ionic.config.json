@@ -1,0 +1,8 @@
+{
+  "name": "ANPR Console",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "cdd399c7"
+}
